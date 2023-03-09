@@ -1,4 +1,8 @@
-### Hi there 👋 I’m currently working with Informatica as a SDE intern (UI).
+👩‍🎓 I am currently pursuing my B.Tech in Computer Science Engineering from Kalinga Institute of Industrial Technology (KIIT), Bhubaneswar. I'm also working with Informatica as n SDE Intern since July'22.
+
+🔭 I’m currently improving my React skills!
+👯 I’m looking to collaborate on different Web Development projects.
+📫 How to reach out to me at imaishikadas@gmail.com
 
 <!--
 **im-aishika/im-aishika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
