@@ -1,8 +1,23 @@
-👩‍🎓 I am currently pursuing my B.Tech in Computer Science Engineering from Kalinga Institute of Industrial Technology (KIIT), Bhubaneswar. I'm also working with Informatica as n SDE Intern since July'22.
+👩‍🎓 I am currently pursuing my B.Tech in Computer Science Engineering from Kalinga Institute of Industrial Technology (KIIT), Bhubaneswar. I'm also working with Informatica as a SDE Intern (UI) since July'22.
 
-🔭 I’m currently improving my React skills!
+🔭 I’m currently improving my React with TypeScript skills!!
 👯 I’m looking to collaborate on different Web Development projects.
-📫 How to reach out to me at imaishikadas@gmail.com
+📫 You can reach out to me at imaishikadas@gmail.com
+
+
+### 👩🏻‍💻Languages
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+</p>
+
+## 🤝Socials
+<a href = "https://www.linkedin.com/in/imaishika/"><img src="https://img.shields.io/badge/LinkedIn-1572B6?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href = "https://leetcode.com/aishikadas/"><img src= "https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"></a>
+<a href = "https://github.com/im-aishika"><img src="https://img.shields.io/badge/GitHub-00000F?style=for-the-badge&logo=github&logoColor=white"></a>
+
 
 <!--
 **im-aishika/im-aishika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
