@@ -14,10 +14,9 @@
 </p>
 
 ## 🤝Socials
-<a href = "https://www.linkedin.com/in/imaishika/"><img src="https://img.shields.io/badge/LinkedIn-1572B6?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href = "https://leetcode.com/aishikadas/"><img src= "https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"></a>
+<a href = "https://www.linkedin.com/in/imaishika/"><img src="https://img.shields.io/badge/LinkedIn-1572B6?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href = "https://github.com/im-aishika"><img src="https://img.shields.io/badge/GitHub-00000F?style=for-the-badge&logo=github&logoColor=white"></a>
-
 
 <!--
 **im-aishika/im-aishika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
