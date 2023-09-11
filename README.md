@@ -1,4 +1,4 @@
-👩‍🎓  completed by bachelor's in Computer Science Engineering this year (2023) from KIIT, Bhubaneswar. I'm currently working as a Software Engineer with JPMorgan Chase & Co. Formerly, I have interned with Informatica as a SDE (UI) Intern. I love to explore new technologies, ideating solutions to real-life problems!
+👩‍🎓  I completed by bachelor's in Computer Science Engineering this year (2023) from KIIT, Bhubaneswar. I'm currently working as a Software Engineer with JPMorgan Chase & Co. Formerly, I have interned with Informatica as a SDE (UI) Intern. I love to explore new technologies, ideating solutions to real-life problems!
 
 🔭 I’m currently improving my React with TypeScript skills!!
 👯 I’m looking to collaborate on different Web Development projects.
